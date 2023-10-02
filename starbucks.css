@@ -1,0 +1,426 @@
+.header
+{
+    width:100%;
+    height:100px;
+}
+.container1-icon
+{
+    width: 60px;
+    margin-left: 25px;
+    height: 60px;
+    margin-top: 20px;
+    float: left;
+
+}
+.menu
+{
+    color:black;
+    text-decoration: none;
+    
+
+}
+.head-div1
+{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 45px;
+    float: left;
+}
+.head-div2
+{
+    height: 100px;
+    width: 100px;
+    margin-left: -20px;
+    margin-top: 45px;
+    float: left;
+}
+.head-div3
+{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 45px;
+    float: left;
+}
+.location
+{
+    height: 10px;
+    width:10px;
+}
+.right-div
+{
+    height: 100px;
+    width: 100px;
+    margin-left: 425px;
+    margin-top: 45px;
+    float: left;
+}
+.signin-div
+{
+    height: 100px;
+    width: 150px;
+    margin-left: 1107px;
+}
+.signin
+{
+    width: 140px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 25px;
+    background-color: white;
+}
+.join-div
+{
+    width: 170px;
+    height: 100px;
+    margin-left: 1267px;
+    margin-top: -100px;
+}
+.join
+{
+    width: 160px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 25px;
+    background-color:#068c2e;
+    border:0px;
+}
+.join-color
+{
+    color: white;
+}
+.body-pic
+{
+    width: 100%;
+    height: 650px;
+    background-color:#03571e;
+}
+.body-img
+{
+    width: 750px;
+    height: 650px;
+    margin-top: -45px
+}
+.body-content1
+{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.content-div1
+{
+    height: 125px;
+    width: 500px;
+    margin-left: 865px;
+    margin-top: -555px;
+}
+.content-div2
+{
+    height: 341px;
+    width: 100%;
+    margin-left: 385px;
+    margin-top: 36px;
+}
+.body-content2
+{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+.content-button
+{
+    background-color:#03571e;
+    height: 45px;
+    width: 120px;
+    margin-left: 665px;
+    border-radius: 50px;
+    border-color: white;
+}
+.button-order
+{
+    color: white;
+}
+.content2-div
+{
+      width:100%;
+      height:650px;
+      background-color: rosybrown;
+      margin-top: -1px;
+}
+
+.content2-left
+{
+    height: 500px;
+    width: 750px;
+    background-color: #020924;
+    padding-top: 150px;
+}
+.content2-coffee
+{
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+.content2-div1
+{
+    height: 80px;
+    width: 480px;
+    margin-left: 110px;
+    text-align: center;
+}
+.content2-div2
+{
+    height: 200px;
+    width: 600px;
+    margin-left: -59px;
+    margin-top: 45px;
+}
+.content2-body
+{
+    font-size: 47px;
+    color: white;
+}
+.gift-button
+{
+    background-color: #020924;
+    text-align: center;
+    border-color: white;
+    height: 60px;
+    width: 219px;
+    margin-top: 35px;
+    border-radius: 50px;
+}
+.giftbuttton-text
+{
+    font-size: 25px;
+    color: white;
+}
+.content2-right
+{
+    height: 650px;
+    width: 706px;
+    margin-left: 751px;
+    background-color:#e0b507;
+    margin-top: -650px;
+}
+.content2-img
+{
+    width: 705px;
+    height: 650px;
+}
+.content3-left
+{
+    height: 650px;
+    width: 750px;
+}
+.content3-img
+{
+    width: 750px;
+    height: 650px;
+}
+.content3-right
+{
+    height: 561px;
+    width: 592px;
+    background-color: #020924;
+    margin-left: 750px;
+    margin-top: -650px;
+    padding-top: 90px;
+    padding-left: 115px;
+}
+.content3right-head
+{
+    height: 95px;
+    width: 500px;
+}
+.content3right-headcontent
+{
+    color: white;
+    font-size: 55px;
+    text-align: center;
+}
+.content3right-content
+{
+    height: 333px;
+    width: 502px;
+}
+.content3-right-text
+{
+    color:white;
+    font-size: 35px;
+    text-align: center;
+}
+.content3-button
+{
+    height: 52px;
+    width: 170px;
+    border-radius: 50px;
+    border-color: white;
+    background-color: #020924;
+    margin-left: 160px;
+}
+.content3-button-text
+{
+    color: white;
+}
+.content4-left
+{
+    height: 561px;
+    width: 750px;
+    background-color: #e0b507;
+    padding-top: 125px;
+}
+.content4-head
+{
+    height: 95px;
+    width: 550px;
+    margin-left: 90px;
+}
+.content4-left-head
+{
+    color: black;
+    font-size: 47px;
+    text-align: center;
+    
+}
+.content4-left-content
+{
+    height: 380px;
+    width: 585px;
+    margin-left: -15px;
+}
+.content4-content
+{
+    text-align: center;
+    font-size: 44px;
+    color: black;
+}
+.content4-button
+{
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: #e0b507;
+    margin-left: 200px;
+    margin-top: 15px;
+    
+}
+.content4-right
+{
+    height: 686px;
+    width: 707px;
+    float: right;
+    margin-top: -686px;
+}
+.content4-right-img
+{
+    height: 686px;
+    width: 710px;
+}
+.last-div
+{
+    width: 100%;
+    height: 134px;
+    padding-top: 50px;
+}
+.last-div-content
+{
+    font-size: 20px;
+    text-align: center;
+}
+.last-div-link
+{
+    margin-left: 543px;
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+
+}
+.footer
+{
+    height:650px;
+    width:100%;
+   
+}
+.footer-head
+{
+    font-size: 25px;
+}
+.footer1
+{
+    height: 500px;
+    width: 260px;
+    margin-left: 26px;
+    font-size: 17px;
+}
+.footer2
+{
+    height: 500px;
+    width: 260px;
+    margin-left: 290px;
+    margin-top: -500px;
+    font-size: 17px;
+}
+.footer3
+{
+    height: 500px;
+    width: 260px;
+    margin-top: -500px;
+    margin-left: 580px;
+    font-size: 17px;
+
+}
+.footer4
+{
+    height: 500px;
+    width: 260px;
+    margin-top: -500px;
+    margin-left: 860px;
+    font-size: 17px;
+}
+.footer5
+{
+    height: 500px;
+    width: 260px;
+    margin-top: -500px;
+    margin-left: 1190px;
+    font-size: 17px;
+    
+}
+.footer-content
+{
+    color:gray;
+}
+.footer-last
+{
+    width: 100%;
+    height: 200px;
+    margin-top: -140px;
+    padding-top: 30px;
+}
+.footer-div-icons
+{
+    height: 100px;
+    width: 650px;
+    margin-left: 60px;
+}
+.footer-icons
+{
+   width: 50px;
+   height: 50px;
+   margin-left: 15px;
+}
+.footer-div-end-text
+{
+    width: 100%;
+    height: 50px;
+    margin-top: -75px;
+    display:flex;
+    justify-content:space-between;
+}
+.footer-text-style
+{
+    text-decoration: none;
+    color: black;
+}
